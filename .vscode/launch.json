@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/GIT/DSA_Code/Essential_C&C++",
-      "program": "d:/GIT/DSA_Code/Essential_C&C++/build/Debug/outDebug",
+      "cwd": "d:/GIT/DSA_Code/Essential_C_C++",
+      "program": "d:/GIT/DSA_Code/Essential_C_C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
